@@ -1,2 +1,3 @@
 # diceGame
-![DiceGame](Screenshot(35).png)
+![GitHub Logo](diceGame/Screenshot(35).png)
+
